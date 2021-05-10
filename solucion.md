@@ -10,4 +10,4 @@ Terminado el proceso se hace va a la bodega de despacho.
 
 Se debe crear un programa de clasificación de producto terminado de despacho a punto de venta. Este debe constar con características de cambio de codificación, lote, calidad. 
 
-[Recomendaciones](#recomendaciones.md) 
+[Recomendaciones](recomendaciones.md) 
